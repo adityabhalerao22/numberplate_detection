@@ -8,3 +8,8 @@ Correlation-based matching algorithm for accurate character identification,
 Preprocessing pipeline with grayscale conversion, binarization, and noise removal,
 Robust bounding box detection for precise plate cropping,
 Support for various image formats and plate orientations
+
+
+- Letter_detection.m: Character recognition using template matching
+- Plate_detection.m: Main plate detection and segmentation logic
+- template_creation.m: Template creation for alphabets and numbers
